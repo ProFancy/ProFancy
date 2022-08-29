@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ProFancy
+- 👀 I’m interested in Coding Basics
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @ProFancyYT Twitter
